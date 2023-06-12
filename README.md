@@ -1,2 +1,2 @@
 # Warehouse-System
-SpringBoot后台加Vue前台组成的管理系统
+SpringBoot后端加Vue前端的前后端分离的仓库管理系统
